@@ -1,5 +1,5 @@
 # letsencrypt
-Setting up Let's Encrypt for Apache on Ubuntu
+Setting up [Let's Encrypt](https://letsencrypt.org/) for Apache on Ubuntu
 
 Tested on Ubuntu 16.04
 
